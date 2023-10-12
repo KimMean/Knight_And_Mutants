@@ -1,0 +1,10 @@
+<Material Name="blinn7">
+    <Shader Vertex="Shaders/Light/Light.hlsl" Pixel="Shaders/Light/Light.hlsl"/>
+    <Texture Diffuse="Textures/Model/Warrior/axe_DIF2.png" Specular="Textures/Model/Warrior/axe_SPEC.png" Normal="Textures/Model/Warrior/axe_NM2.png"/>
+    <Property Shininess="2.1524804" HasNormalMap="0">
+        <Diffuse R="0.80000001" G="0.80000001" B="0.80000001" A="1"/>
+        <Specular R="0.5" G="0.5" B="0.5" A="1"/>
+        <Ambient R="0" G="0" B="0" A="1"/>
+        <Emissive R="0" G="0" B="0" A="1"/>
+    </Property>
+</Material>
